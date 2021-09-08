@@ -24,7 +24,7 @@
   </div>
  <div>
   
-   ![Snake animation](https://github.com/diegodimanno)
+  ![Snake animation](https://github.com/diegodimanno/diegodimanno/blob/output/github-contribution-grid-snake.svg)
   
  </div>
 
