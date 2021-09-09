@@ -1,4 +1,4 @@
-Olá! eu sou o Diego Di Manno.
+Olá! Eu sou o Diego Di Manno.
 
 - 🔭 Buscando oportunidade no desenvolvimento de software.
 - 🌱 Cursando o 4 semestre de Análise e desenvolvimento de sistemas.
