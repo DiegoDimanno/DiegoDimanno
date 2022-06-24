@@ -1,7 +1,7 @@
 Olá! Eu sou o Diego Di Manno.
 
-- 🔭 Buscando oportunidade no desenvolvimento de software.
-- 🌱 Cursando o 4 semestre de Análise e desenvolvimento de sistemas.
+- Formado em Análise e Desenvolvimento de Sistemas.
+- Desenvolvedor Back-End.
 
 <div> 
  <a href="https://www.linkedin.com/in/diego-dimanno-silva-98773415a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
